@@ -1,0 +1,6 @@
+c:\users\dexp1\documents\visual studio 2015\Projects\eDES\eDES\bin\Debug\eDES.exe.config
+C:\Users\Dexp1\Documents\Visual Studio 2015\Projects\eDES\eDES\bin\Debug\eDES.exe
+C:\Users\Dexp1\Documents\Visual Studio 2015\Projects\eDES\eDES\bin\Debug\eDES.pdb
+C:\Users\Dexp1\Documents\Visual Studio 2015\Projects\eDES\eDES\obj\Debug\eDES.csprojResolveAssemblyReference.cache
+C:\Users\Dexp1\Documents\Visual Studio 2015\Projects\eDES\eDES\obj\Debug\eDES.exe
+C:\Users\Dexp1\Documents\Visual Studio 2015\Projects\eDES\eDES\obj\Debug\eDES.pdb
